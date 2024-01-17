@@ -1,0 +1,8 @@
+@media screen and (max-width:550px) {
+    .btn-wrap{
+        display: none;
+    }   
+}
+body{
+    font-family: 'Ubuntu', sans-serif;
+}
